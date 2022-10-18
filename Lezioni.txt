@@ -5,3 +5,4 @@ Java EE
 Sviluppo mobile
 SQL
 VmWare
+Git
