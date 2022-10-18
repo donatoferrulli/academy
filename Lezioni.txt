@@ -6,3 +6,4 @@ Sviluppo mobile
 SQL
 VmWare
 Git
+Angular
