@@ -1,6 +1,9 @@
 - parlare con cliente per capire tipologia di danno riscontrato
 - ispezione visiva dell'automobile
 - valutare tipo di danno
+    - ispezione visiva
+    - debug via OBD della centralina
+    - verifica salute della batteria di trazione
 - valutare migliore soluzione 
 - identificare strumenti per riparare automobile
 - riparare auto
