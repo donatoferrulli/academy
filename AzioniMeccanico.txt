@@ -1,0 +1,6 @@
+- parlare con cliente per capire tipologia di danno riscontrato
+- ispezione visiva dell'automobile
+- valutare tipo di danno
+- valutare migliore soluzione 
+- identificare strumenti per riparare automobile
+- riparare auto
