@@ -1,0 +1,9 @@
+React
+Node.js
+Python
+Java EE
+Sviluppo mobile
+SQL
+VmWare
+Git
+Angular
