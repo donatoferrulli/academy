@@ -1,5 +1,5 @@
-cose da fare:
 
+cose da fare:
 1) controlla lo stato di usura delle gomme
 2) misura pressione delle gomme
 3) vede la qualità dei filtri
@@ -14,4 +14,5 @@ cose da fare:
 13)Controllo freni
 14)Controllo filtri
 15)Controllo servosterzo 
+16) ispezione parte inferiore del veicolo
 
