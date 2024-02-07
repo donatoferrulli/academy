@@ -1,7 +1,6 @@
 cose da fare:
-
+0)mi guardo intorno cercando aiuto
 1) controlla lo stato di usura delle gomme
-1a)mi guardo intorno cercando aiuto
 2) misura pressione delle gomme
 3) vede la qualità dei filtri
 4) vede il quantitativo di olio motore
