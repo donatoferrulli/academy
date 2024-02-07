@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+1. Controllo carrozzeria
+2. Controllo pressione gomme
+3. Controllo centralina
+4. Controllo freni
+5. Controllo liquidi
+6. Controllo stato vetri
+7. Controllo tergicristalli
+8. Controllo stato gomme
+9. Controllo stato motore
+10. Controllo scarico
+11. Controllo serbatoio
+12. Controllo
+13. Controllo
+14. Controllo
+15. Controllo
+=======
 cose da fare:
 
 1) controlla lo stato di usura delle gomme
@@ -16,3 +33,4 @@ cose da fare:
 15)Controllo servosterzo 
 16) testasdasdasdajdslajdlkasjdlkasjldkjsalkjdaslk
 
+>>>>>>> 86742085ff1ee1b00fda050338556b77fb5f3f45
