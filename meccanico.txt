@@ -14,5 +14,5 @@ cose da fare:
 13)Controllo freni
 14)Controllo filtri
 15)Controllo servosterzo 
-16) test
+16) testasdasdasda
 
