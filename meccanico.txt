@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1 revisione
 2 pressione gomme
 3 controllo freni
@@ -13,3 +14,16 @@
 13 controllo scatola del cambio
 14 sostituzione coppa dell'olio
 15 controllo servosterzo
+=======
+1) controlla lo stato di usura delle gomme
+2) misura pressione delle gomme
+3) vede la qualità dei filtri
+4) vede il quantitativo di olio motore
+5) controlla la convergenza
+6) si schifa dello stato della tua auto
+7) ti cambia qualcosa di inutile solo per farti spendere più soldi
+9) non me ne vengono altre
+10) sente il rumore del motore
+11) controlla lo stato dei freni
+
+>>>>>>> 774695b63ddef51de00629c2ce83e8a1c52ac4b4
