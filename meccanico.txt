@@ -1,15 +1,15 @@
-revisione
-pressione gomme
-controllo freni
-controllo luci
-controllo filtro diesel
-controllo filtro polline
-controllo filtro antiparticolato
-controllo temperatura gas di scarico
-rabbocco olio motore
-rabocco olio freni
-sostituzione paraurti
-controllo semiasse
-controllo scatola del cambio
-sostituzione coppa dell'olio
-controllo servosterzo
+1 revisione
+2 pressione gomme
+3 controllo freni
+4 controllo luci
+5 controllo filtro diesel
+6 controllo filtro polline
+7 controllo filtro antiparticolato
+8 controllo temperatura gas di scarico
+9 rabbocco olio motore
+10 rabocco olio freni
+11 sostituzione paraurti
+12 controllo semiasse
+13 controllo scatola del cambio
+14 sostituzione coppa dell'olio
+15 controllo servosterzo
