@@ -1,9 +1,5 @@
-sonoultimo
 cose da fare:
-1)Controllo gomme
-2)Controllo freni
-3)Controllo filtri
-4)Controllo servosterzo 
+
 1) controlla lo stato di usura delle gomme
 2) misura pressione delle gomme
 3) vede la qualità dei filtri
@@ -14,5 +10,8 @@ cose da fare:
 9) non me ne vengono altre
 10) sente il rumore del motore
 11) controlla lo stato dei freni
+12)Controllo gomme
+13)Controllo freni
+14)Controllo filtri
+15)Controllo servosterzo 
 
-develop
