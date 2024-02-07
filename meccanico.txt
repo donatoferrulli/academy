@@ -1,0 +1,10 @@
+1 controllo pressione gomme
+2 finestrino rotto
+3 controllo freni
+4 problemi con il cambio
+5 controllo spie 
+6 controllo della batteria 
+7 problemi con il volante
+8 aggiustare sportelli
+9 gomma bucata
+10 controllo delle luci
