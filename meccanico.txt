@@ -1,0 +1,10 @@
+1 Controllo pressione gomme
+2 controllare la presenza di spie accesse
+3 verificare la presenza di errori nell'elettronica
+4 verificare che la macchina si metta in moto
+5 cambiare l'olio motore
+6 controllare la convergenza
+7 controllare le luci
+8 ispezionare cinture
+9 controllare il filtro del carvurante
+10 controllare le sospensioni
