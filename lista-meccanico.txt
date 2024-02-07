@@ -1,0 +1,9 @@
+cose da fare:
+1- verificare accensione auto
+2- vericifare funzionamento generale
+3- controllare il motore
+4- controllare i freni
+5- controllare le sospensioni
+6- verificare la presenza dell'olio
+7- verificare la presenza dell'acqua
+8- riprovare l'accensione dell'auto
