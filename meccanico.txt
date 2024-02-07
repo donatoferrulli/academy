@@ -1,6 +1,6 @@
 cose da fare:
-
-Controllo gomme
-Controllo freni
-Controllo filtri
+1)Controllo gomme
+2)Controllo freni
+3)Controllo filtri
+4)Controllo servosterzo 
 ecc.
