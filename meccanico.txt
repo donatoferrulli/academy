@@ -1,0 +1,6 @@
+1 controllo pressione pneumatici
+2 controllo temperatura motore
+3 test funzionamento tergicristalli
+4 test funzionamento luci
+5 ispezione parte inferiore del veicolo
+6 ispezione stato delle pastiglie dei freni
