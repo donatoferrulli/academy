@@ -7,4 +7,4 @@
 7 controlla l'asse
 8 controlla la frizione
 9 controlla la centralina
-10 controlla la scatola del cambio
+10 controlla la scatola del cambio 
