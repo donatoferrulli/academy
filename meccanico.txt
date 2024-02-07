@@ -1,0 +1,10 @@
+1 controllo freni
+2 controllo motore
+3 controllo trasmissioni
+4 controllo cinghie
+5 controllo pistoni
+6 controllo olio
+7 controllo frizione
+8 controllo ruote
+9 contro pressione gomme
+10 controllo radiatore
