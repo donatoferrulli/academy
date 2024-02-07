@@ -1,0 +1,15 @@
+1. Controllo carrozzeria
+2. Controllo pressione gomme
+3. Controllo centralina
+4. Controllo freni
+5. Controllo liquidi
+6. Controllo stato vetri
+7. Controllo tergicristalli
+8. Controllo stato gomme
+9. Controllo stato motore
+10. Controllo scarico
+11. Controllo serbatoio
+12. Controllo
+13. Controllo
+14. Controllo
+15. Controllo
