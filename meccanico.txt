@@ -1,0 +1,10 @@
+1 controlla il cofano
+2 controlla l'auto mettendola su un ponte
+3 controlla l'olio
+4 controlla l'acqua
+5 controlla l'le gomme
+6 controlla le ruote
+7 controlla l'asse
+8 controlla la frizione
+9 controlla la centralina
+10 controlla la scatola del cambio
