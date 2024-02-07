@@ -8,4 +8,5 @@
 9) non me ne vengono altre
 10) sente il rumore del motore
 11) controlla lo stato dei freni
-
+12) controlla le luci
+13) controlla il triangolo
